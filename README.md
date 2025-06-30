@@ -24,7 +24,7 @@ This project provides an interactive simulation and visualization of the membran
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/<your-username>/neuron-simulator.git
+   git clone https://github.com/MikiTwenty/neuron-simulator.git
    cd neuron-simulator
    ```
 
